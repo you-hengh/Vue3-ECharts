@@ -1,0 +1,6 @@
+{
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    "package.json": "package-lock.json,pnpm-lock.yaml,.markdownlint.jsonc,.gitignore,.prettierrc,README.md,tailwind.config.js,vite.config.js,LICENSE"
+  }
+}
